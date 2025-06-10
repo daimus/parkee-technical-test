@@ -156,8 +156,7 @@ Tulislah skrip Python menggunakan pandas untuk menyelesaikan tugas di atas.
 
 ### Jawab:
 - [main.py](./scripting/main.py)
-- [Google Collab Notebook](https://colab.research.google.com/drive/1oWE8wZ-HVWCg1weQL78jnhKdNl_hp08l?usp=sharing)
-<br>
+- [Google Collab Notebook](https://colab.research.google.com/drive/1oWE8wZ-HVWCg1weQL78jnhKdNl_hp08l?usp=sharing) <br>
 ![Scripting](./images/scripting.png)
 
 
